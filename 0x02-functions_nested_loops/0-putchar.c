@@ -2,7 +2,7 @@
 /**
  * main - Print "Holberton" followed by a new line.
  * Description: You are not allowed to include standard libraries.
- * Rerurn: 0
+ * Rerurn: 0 (success)
  */
 int main(void)
 {

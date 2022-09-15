@@ -1,4 +1,4 @@
-#include "majn.h"
+#include "main.h"
 
 /**
  *  mul - input

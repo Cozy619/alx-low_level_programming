@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include "main.h"
 
 #include <stdio.h>
@@ -56,6 +55,3 @@ void print_buffer(char *b, int size)
 	if (size == 0)
 		putchar('\n');
 }
-=======
-
->>>>>>> 450c525452310a05894161f93095b9d3857992f4
